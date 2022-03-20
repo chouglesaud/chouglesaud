@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning "The Clean Architecture"
 - 💻 Building [Repositree](https://github.com/chouglesaud/repositree). A browser extension that helps to explore GitHub repository
 - 📫 How to reach me: [twitter](https://twitter.com/chouglesaud)
-- 🤔 curious about me: i like TypeScript
+- {} I code In JavaScript, C#.
